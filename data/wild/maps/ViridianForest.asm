@@ -20,7 +20,7 @@ IF DEF(_BLUE)
 	db  4, KAKUNA
 	db  3, WEEDLE
 ENDC
-	db  3, PIKACHU
 	db  5, PIKACHU
+	db  5, BULBASAUR
 
 	db 0 ; water encounter rate

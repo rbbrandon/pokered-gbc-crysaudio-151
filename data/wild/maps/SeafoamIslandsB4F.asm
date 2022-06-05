@@ -22,6 +22,6 @@ IF DEF(_BLUE)
 	db 29, SEEL
 	db 39, GOLDUCK
 ENDC
-	db 32, GOLBAT
+	db 30, OMANYTE
 
 	db 0 ; water encounter rate

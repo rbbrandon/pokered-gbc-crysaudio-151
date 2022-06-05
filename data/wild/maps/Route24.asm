@@ -20,6 +20,6 @@ IF DEF(_BLUE)
 ENDC
 	db 13, PIDGEY
 	db  8, ABRA
-	db 12, ABRA
+	db 12, SQUIRTLE
 
 	db 0 ; water encounter rate

@@ -8,7 +8,7 @@ PlateauMons3:
 	db 45, ONIX
 	db 43, GRAVELER
 	db 41, GOLBAT
-	db 42, MACHOKE
 	db 45, MACHOKE
+	db 43, HITMONLEE
 
 	db 0 ; water encounter rate

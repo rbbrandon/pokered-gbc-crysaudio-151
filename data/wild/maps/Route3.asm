@@ -8,7 +8,7 @@ Route3Mons:
 	db  8, PIDGEY
 	db  8, SPEAROW
 	db  3, JIGGLYPUFF
-	db  5, JIGGLYPUFF
 	db  7, JIGGLYPUFF
+	db  7, CHARMANDER
 
 	db 0 ; water encounter rate

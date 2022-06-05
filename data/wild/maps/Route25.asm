@@ -8,7 +8,6 @@ IF DEF(_RED)
 	db 13, ODDISH
 	db 12, ABRA
 	db 14, ODDISH
-	db 10, ABRA
 	db  7, METAPOD
 	db  8, CATERPIE
 ENDC
@@ -20,9 +19,9 @@ IF DEF(_BLUE)
 	db 13, BELLSPROUT
 	db 12, ABRA
 	db 14, BELLSPROUT
-	db 10, ABRA
 	db  7, KAKUNA
 	db  8, WEEDLE
 ENDC
+	db 12, SQUIRTLE
 
 	db 0 ; water encounter rate
