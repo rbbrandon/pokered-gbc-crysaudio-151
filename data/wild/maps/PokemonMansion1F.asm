@@ -8,9 +8,9 @@ IF DEF(_RED)
 	db 34, GROWLITHE
 	db 32, PONYTA
 	db 30, GRIMER
-	db 28, PONYTA
 	db 37, WEEZING
 	db 39, MUK
+	db 28, VULPIX
 ENDC
 IF DEF(_BLUE)
 	db 32, GRIMER
@@ -20,9 +20,9 @@ IF DEF(_BLUE)
 	db 34, VULPIX
 	db 32, PONYTA
 	db 30, KOFFING
-	db 28, PONYTA
 	db 37, MUK
 	db 39, WEEZING
+	db 28, GROWLITHE
 ENDC
 
 	db 0 ; water encounter rate

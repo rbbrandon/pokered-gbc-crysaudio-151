@@ -14,7 +14,7 @@ IF DEF(_RED)
 ENDC
 IF DEF(_BLUE)
 	db 33, RAICHU
-	db 36, RAICHU
+	db 36, ELECTABUZZ
 ENDC
 
 	db 0 ; water encounter rate

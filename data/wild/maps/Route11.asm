@@ -19,7 +19,12 @@ IF DEF(_BLUE)
 	db 15, SANDSHREW
 ENDC
 	db 17, SPEAROW
-	db 11, DROWZEE
 	db 15, DROWZEE
+IF DEF(_RED)
+	db 15, SANDSHREW
+ENDC
+IF DEF(_BLUE)
+	db 15, EKANS
+ENDC
 
 	db 0 ; water encounter rate

@@ -12,8 +12,13 @@ ENDC
 IF DEF(_BLUE)
 	db 57, SANDSLASH
 ENDC
-	db 65, DITTO
-	db 63, DITTO
 	db 67, DITTO
+	db 63, DITTO
+IF DEF(_RED)
+	db 57, SANDSLASH
+ENDC
+IF DEF(_BLUE)
+	db 57, ARBOK
+ENDC
 
 	db 0 ; water encounter rate
