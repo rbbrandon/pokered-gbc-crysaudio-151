@@ -613,7 +613,7 @@ SlowpokeEvosMoves:
 KadabraEvosMoves:
 ; Evolutions
 	db EV_TRADE, 1, ALAKAZAM
-	db EV_LEVEL, 38, ALAKAZAM
+	db EV_LEVEL, 40, ALAKAZAM
 	db 0
 ; Learnset
 	db 16, CONFUSION
@@ -1688,7 +1688,7 @@ MissingNo92EvosMoves:
 HaunterEvosMoves:
 ; Evolutions
 	db EV_TRADE, 1, GENGAR
-	db EV_LEVEL, 38, GENGAR
+	db EV_LEVEL, 40, GENGAR
 	db 0
 ; Learnset
 	db 29, HYPNOSIS
