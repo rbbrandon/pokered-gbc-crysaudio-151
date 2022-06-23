@@ -96,3 +96,4 @@ ItemPrices::
 	money 0     ; FLOOR_10F
 	money 0     ; FLOOR_11F
 	money 0     ; FLOOR_B4F
+	money 2100  ; LINKING_CORD
